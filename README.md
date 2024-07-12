@@ -1,5 +1,7 @@
 # Employee Time Clock
 
+This repo contains the employee-facing side of my time clock application. Please clone the [Time Clock Backend](https://github.com/Blake-Herbert/Time-Clock-Backend) and [Manager App](https://github.com/Blake-Herbert/Manager-App) for full-functionality.
+
 ## Project setup
 ```
 npm install
